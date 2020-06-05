@@ -1,6 +1,6 @@
 # WhatchCopy
 
-Whatch And Copy in C# application copyies files their paths are populated by Network Search Engine project (NetSE Repository)
+Whatch And Copy in C# application copyies files their paths are populated by Network Search Engine project actions (NetSE Repository)
 
 configured in configure.xml file.
 
