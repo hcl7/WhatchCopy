@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WFANSEC">
+</Property><Property Name="Solution File" Value="C:\Projects\WFANSEC\WFANSEC.sln">
+</Property><Property Name="User Options File" Value="C:\Projects\WFANSEC\WFANSEC.suo">
+</Property><Property Name="Date" Value="Monday, April 15, 2013">
+</Property><Property Name="Time" Value="13:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WFANSEC.sln" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WFANSEC.suo" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC.suo">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\WFANSEC.csproj" Description="Project file successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\WFANSEC.csproj">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\WFANSEC.csproj.user" Description="Project user file successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\WFANSEC.csproj.user">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\frmCopy.cs" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\frmCopy.cs">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\frmCopy.Designer.cs" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\frmCopy.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\Modules\pafap_files.cs" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\Modules\pafap_files.cs">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\Modules\pafap_lists.cs" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\Modules\pafap_lists.cs">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\Modules\pafap_search.cs" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\Modules\pafap_search.cs">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\Modules\pafap_sql.cs" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\Modules\pafap_sql.cs">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\Program.cs" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\Program.cs">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\ViewLog.cs" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\ViewLog.cs">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\ViewLog.Designer.cs" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\ViewLog.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\Properties\Settings.settings" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\configure.xml" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\configure.xml">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\FileCopy.gif" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\FileCopy.gif">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\logo.ico" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\logo.ico">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\frmCopy.resx" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\frmCopy.resx">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\Properties\Resources.resx" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\ViewLog.resx" Description="File successfully backed up as C:\Projects\WFANSEC\Backup\WFANSEC\ViewLog.resx">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\WFANSEC.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WFANSEC" Source="WFANSEC\WFANSEC.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WFANSEC.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WFANSEC.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WFANSEC" Source="WFANSEC\WFANSEC.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

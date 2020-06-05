@@ -1,0 +1,12 @@
+C:\Projects\WFANSEC\WFANSEC\obj\Release\WFANSEC.pafap_global.Init.resources
+C:\Projects\WFANSEC\WFANSEC\obj\Release\WFANSEC.Properties.Resources.resources
+C:\Projects\WFANSEC\WFANSEC\obj\Release\WFANSEC.ViewLog.resources
+C:\Projects\WFANSEC\WFANSEC\bin\Release\WFANSEC.exe.manifest
+C:\Projects\WFANSEC\WFANSEC\bin\Release\WFANSEC.application
+C:\Projects\WFANSEC\WFANSEC\bin\Release\WFANSEC.exe
+C:\Projects\WFANSEC\WFANSEC\bin\Release\WFANSEC.pdb
+C:\Projects\WFANSEC\WFANSEC\obj\Release\WFANSEC.exe.manifest
+C:\Projects\WFANSEC\WFANSEC\obj\Release\WFANSEC.application
+C:\Projects\WFANSEC\WFANSEC\obj\Release\WFANSEC.exe
+C:\Projects\WFANSEC\WFANSEC\obj\Release\WFANSEC.pdb
+C:\Projects\WFANSEC\WFANSEC\obj\Release\WFANSEC.csproj.GenerateResource.Cache
