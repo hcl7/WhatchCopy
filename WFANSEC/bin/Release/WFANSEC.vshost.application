@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="file://dg-montazhhd2/E/Temp/project/WFANSEC.application" />
+    <deploymentProvider codebase="file://pc/E/Temp/project/WFANSEC.application" />
   </deployment>
   <dependency>
     <dependentAssembly dependencyType="install" codebase="WFANSEC.exe.manifest" size="5481">
